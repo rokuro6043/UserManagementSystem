@@ -1,0 +1,9 @@
+# React
+frontend/node_modules/
+frontend/build/
+
+# Java
+backend/target/
+
+# Env
+.env
